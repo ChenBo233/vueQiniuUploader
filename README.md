@@ -1,2 +1,2 @@
 # vueQiniuUploader
-七牛云上传控件
+Vue + 七牛云上传文件
